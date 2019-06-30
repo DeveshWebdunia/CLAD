@@ -1,0 +1,4 @@
+https://jsfiddle.net/qcs5e061/  --for loop concat in js
+https://jsfiddle.net/946rm21k/1/ --factorial of no. between 5 to 10 using recursion	
+
+https://jsfiddle.net/946rm21k/2/ ---calculator 
